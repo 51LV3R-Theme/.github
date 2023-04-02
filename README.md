@@ -180,67 +180,67 @@
         <td>#121212</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Mantle.png" alt="Mantle"></td>
+        <td><img src="Underworld/Mantle.png" alt="Mantle"></td>
         <td>Mantle</td>
         <td>#080808</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Crust.png" alt="Crust"></td>
+        <td><img src="Underworld/Crust.png" alt="Crust"></td>
         <td>Crust</td>
         <td>#030303</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Text.png" alt="Text"></td>
+        <td><img src="Underworld/Text.png" alt="Text"></td>
         <td>Text</td>
         <td>#d3d3d3</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Sub-text1.png" alt="Sub-text1"></td>
+        <td><img src="Underworld/Sub-text1.png" alt="Sub-text1"></td>
         <td>Sub-text1</td>
         <td>#c8c8c8</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Sub-text0.png" alt="Sub-text0"></td>
+        <td><img src="Underworld/Sub-text0.png" alt="Sub-text0"></td>
         <td>Sub-text0</td>
         <td>#b8b8b8</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Surface0.png" alt="Surface0"></td>
+        <td><img src="Underworld/Surface0.png" alt="Surface0"></td>
         <td>Surface0</td>
         <td>#222222</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Surface1.png" alt="Surface1"></td>
+        <td><img src="Underworld/Surface1.png" alt="Surface1"></td>
         <td>Surface1</td>
         <td>#2b2b2b</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Surface2.png" alt="Surface2"></td>
+        <td><img src="Underworld/Surface2.png" alt="Surface2"></td>
         <td>Surface2</td>
         <td>#393939</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Overlay0.png" alt="Overlay0"></td>
+        <td><img src="Underworld/Overlay0.png" alt="Overlay0"></td>
         <td>Overlay0</td>
         <td>#4d4d4d</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Overlay1.png" alt="Overlay1"></td>
+        <td><img src="Underworld/Overlay1.png" alt="Overlay1"></td>
         <td>Overlay1</td>
         <td>#616161</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Overlay2.png" alt="Overlay2"></td>
+        <td><img src="Underworld/Overlay2.png" alt="Overlay2"></td>
         <td>Overlay2</td>
         <td>#6e6e6e</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/CBZE.png" alt="CBZE"></td>
+        <td><img src="Underworld/CBZE.png" alt="CBZE"></td>
         <td>CBZE?</td>
         <td>#937aba</td>
     </tr>
     <tr>
-        <td><img src="Purgatory/Witch.png" alt="Witch"></td>
+        <td><img src="Underworld/Witch.png" alt="Witch"></td>
         <td>Witch</td>
         <td>#ac4cdc</td>
     </tr>
