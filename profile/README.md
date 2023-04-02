@@ -248,5 +248,8 @@
 </details>
 </details></center>
 
+<center><h2> Ports </h2></center>
+<a href="https://github.com/51LV3R-Theme/51LV3R-Theme-for-waybar">Waybar</a>
+
 <center><h2> Special Thanks </h2></center>
 <p> A special thanks for: <a href="https://inkscape.org/">Inkscape</a> and <a href="https://github.com/Eduardo-de-Oliveira-Santos">Sr.51LV3R</a></p>
