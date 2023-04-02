@@ -84,6 +84,41 @@
         <td>Witch</td>
         <td>#ac4cdc</td>
     </tr>
+    <tr>
+        <td><img src="Paradise/Blue.png" alt="Blue"></td>
+        <td>Blue</td>
+        <td>#2400b3</td>
+    </tr>
+    <tr>
+        <td><img src="Paradise/Blue2.png" alt="Blue2"></td>
+        <td>Blue2</td>
+        <td>#0057b3</td>
+    </tr>
+    <tr>
+        <td><img src="Paradise/Cian.png" alt="Cian"></td>
+        <td>Cian</td>
+        <td>#0095b3</td>
+    </tr>
+    <tr>
+        <td><img src="Paradise/Jade.png" alt="Jade"></td>
+        <td>Jade</td>
+        <td>#00b36a</td>
+    </tr>
+    <tr>
+        <td><img src="Paradise/Magenta.png" alt="Magenta"></td>
+        <td>Magenta</td>
+        <td>#b30070</td>
+    </tr>
+    <tr>
+        <td><img src="Paradise/Ruby.png" alt="Ruby"></td>
+        <td>Ruby</td>
+        <td>#b30013</td>
+    </tr>
+    <tr>
+        <td><img src="Paradise/Sea.png" alt="Sea"></td>
+        <td>Sea</td>
+        <td>#00b395</td>
+    </tr>
 </table>
 </details>
 
@@ -164,6 +199,41 @@
         <td>Witch</td>
         <td>#ac4cdc</td>
     </tr>
+    <tr>
+        <td><img src="Purgatory/Blue.png" alt="Blue"></td>
+        <td>Blue</td>
+        <td>#2400b3</td>
+    </tr>
+    <tr>
+        <td><img src="Purgatory/Blue2.png" alt="Blue2"></td>
+        <td>Blue2</td>
+        <td>#0057b3</td>
+    </tr>
+    <tr>
+        <td><img src="Purgatory/Cian.png" alt="Cian"></td>
+        <td>Cian</td>
+        <td>#0095b3</td>
+    </tr>
+    <tr>
+        <td><img src="Purgatory/Jade.png" alt="Jade"></td>
+        <td>Jade</td>
+        <td>#00b36a</td>
+    </tr>
+    <tr>
+        <td><img src="Purgatory/Magenta.png" alt="Magenta"></td>
+        <td>Magenta</td>
+        <td>#b30070</td>
+    </tr>
+    <tr>
+        <td><img src="Purgatory/Ruby.png" alt="Ruby"></td>
+        <td>Ruby</td>
+        <td>#b30013</td>
+    </tr>
+    <tr>
+        <td><img src="Purgatory/Sea.png" alt="Sea"></td>
+        <td>Sea</td>
+        <td>#00b395</td>
+    </tr>
 </table>
 </details>
 
@@ -243,6 +313,41 @@
         <td><img src="Underworld/Witch.png" alt="Witch"></td>
         <td>Witch</td>
         <td>#ac4cdc</td>
+    </tr>
+    <tr>
+        <td><img src="Underworld/Blue.png" alt="Blue"></td>
+        <td>Blue</td>
+        <td>#2400b3</td>
+    </tr>
+    <tr>
+        <td><img src="Underworld/Blue2.png" alt="Blue2"></td>
+        <td>Blue2</td>
+        <td>#0057b3</td>
+    </tr>
+    <tr>
+        <td><img src="Underworld/Cian.png" alt="Cian"></td>
+        <td>Cian</td>
+        <td>#0095b3</td>
+    </tr>
+    <tr>
+        <td><img src="Underworld/Jade.png" alt="Jade"></td>
+        <td>Jade</td>
+        <td>#00b36a</td>
+    </tr>
+    <tr>
+        <td><img src="Underworld/Magenta.png" alt="Magenta"></td>
+        <td>Magenta</td>
+        <td>#b30070</td>
+    </tr>
+    <tr>
+        <td><img src="Underworld/Ruby.png" alt="Ruby"></td>
+        <td>Ruby</td>
+        <td>#b30013</td>
+    </tr>
+    <tr>
+        <td><img src="Underworld/Sea.png" alt="Sea"></td>
+        <td>Sea</td>
+        <td>#00b395</td>
     </tr>
 </table>
 </details>
