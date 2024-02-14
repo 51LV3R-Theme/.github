@@ -1,11 +1,12 @@
 <center><h1> 51LV3R Theme </h1></center>
-<p>A dark (and light) theme for everyone that love see</p>
+<p>A dark (and light) theme for everyone that love see (:</p>
 
 <center><h2> Design Philosophy </h2></center>
-<p>Simple but comfortable: the simplicity and the comfortable style is essential to give productivity, to can to be is necessary that do you fell in home and comfortable in your workspace.</p>
+<p>Simple, but comfortable: simplicity and comfort in style are essential to productivity. To do a good and quality work, it is necessary that you feel at home and comfortable in your workspace.</p>
+<p>Your desktop, your rules: It is essential that do you have total control of your desktop; your desktop needs to just looks like your soul! Your desktop is one part of your personality, and with this theme, you can just choose what more combines with you.</p>
 
 <center><details><summary> <h2> Palettes </h2> </summary>
-<p>51LV3R Theme have 3 pallet kits, that is lovely called of "Dimensions"</p>
+<p>51LV3R Theme has 3 styles, which are called "Dimensions." Our three dimensions are: Paradise, Purgatory and Underworld.</p>
 
 <details><summary> <h3> Paradise </h3> </summary>
 <table>
@@ -355,6 +356,9 @@
 
 <center><h2> Ports </h2></center>
 <a href="https://github.com/51LV3R-Theme/51LV3R-Theme-for-waybar">Waybar</a>
+
+<center><h2> Status </h2></center>
+<p>This project is currently in slow development, but if you want to contribute, you are welcome. Just chat with me in Discord: @sr51lv3r</p>
 
 <center><h2> Special Thanks </h2></center>
 <p> A special thanks for: <a href="https://inkscape.org/">Inkscape</a> and <a href="https://github.com/Eduardo-de-Oliveira-Santos">Sr.51LV3R</a></p>
